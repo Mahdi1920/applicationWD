@@ -1,4 +1,4 @@
-package com.example.firstms;
+package tn.esprit.spring.firstms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
